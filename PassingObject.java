@@ -17,6 +17,7 @@ class paper
     String text;
     public void setText(String t)
     {
+        syout("sudip);
         text=t;
     }
     public String getText()
